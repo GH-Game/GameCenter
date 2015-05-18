@@ -1,0 +1,4 @@
+com.youzu.snsgz.linyou.youmi=libsubstrate.so
+com.youzu.snsgz.linyou.youmi=libdbpays2.so
+com.youzu.snsgz.qihoo360=libsubstrate.so
+com.youzu.snsgz.qihoo360=libdbpays2.so
